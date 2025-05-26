@@ -25,13 +25,13 @@
 ---
 
 ### 🛠️ Tech Arsenal
-![Skills](https://skillicons.dev/icons?i=js,ts,angular,nodejs,tailwind,figma,ps&theme=dark&perline=7)
+![Skills](https://skillicons.dev/icons?i=js,ts,angular,nodejs,tailwind,ps&theme=dark&perline=7)
 
 ---
 
 ### 🔥 Latest Creations
-| Project | Stack | Description | Status |
-|---------|-------|-------------|--------|
-| [Mikrokosmos CMS](/) | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | Community Management System | ![Live](https://img.shields.io/badge/-Live-00CC00?logo=vercel) |
+| Project | Stack | Description | Status | Link |
+|---------|-------|-------------|--------|------|
+| [Mikrokosmos](/) | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | Community Management System | ![Live](https://img.shields.io/badge/-Live-00CC00?logo=vercel) | www.mikrokosmos-mosbach.com |
 
 ---
