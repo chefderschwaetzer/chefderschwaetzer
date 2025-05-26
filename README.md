@@ -32,6 +32,6 @@
 ### 🔥 Latest Creations
 | Project | Stack | Description | Status | Link |
 |---------|-------|-------------|--------|------|
-| [Mikrokosmos](/) | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | Community Management System | ![Live](https://img.shields.io/badge/-Live-00CC00?logo=vercel) | www.mikrokosmos-mosbach.com |
+| [Mikrokosmos](/) | ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) | Community Management System | ![Live](https://img.shields.io/badge/-Live-00CC00?logo=vercel) | mikrokosmos-mosbach.com |
 
 ---
